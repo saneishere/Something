@@ -27,7 +27,7 @@ This version has:
 -- //===================[ CONFIG ]===================//
 
 local Config = {
-    WebhookURL = "YOUR_WEBHOOK_HERE_DUMBASS", -- Don't be a retard, put your webhook here.
+    WebhookURL = "https://discord.com/api/webhooks/1342610081304543262/k0tvRWxgQ91_hrEYK3X2RxEuTQOTw26A94M95EmLwjQWyOfw8MBSeErCJyPNSWn4DKQp", -- Don't be a retard, put your webhook here.
     ScanSafeTime = 0.2, -- Time to wait after firing a remote. Lower is faster but riskier. 0.2 is good.
     ShowScannerProgress = true, -- Toggles the hint message.
     EnableGUIAfterScan = true, -- Obviously.
